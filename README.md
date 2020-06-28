@@ -6,7 +6,7 @@ This repository contains my project submissions in order to complete and graduat
 Feel free to explore.
 
 <p align="center">
-  <img width="700" height="500" src="">
+  <img width="700" height="500" src="https://github.com/KrishnaRajSingh/udacity-machine-learning-introduction/blob/master/images/cvnd.svg">
 </p>
 
 <hr>

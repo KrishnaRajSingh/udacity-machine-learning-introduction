@@ -1,7 +1,7 @@
 # udacity-machine-learning-introduction
 
 # Udacity Computer Vision Nano Degree
-This repository contains my project submissions in order to complete and graduate Computer Vision nano degree from udacity.
+This repository contains my project submissions in order to complete and graduate machine-learning-introduction  from udacity.
 
 Feel free to explore.
 
